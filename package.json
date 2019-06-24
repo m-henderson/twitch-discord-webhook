@@ -13,5 +13,8 @@
     "ts-node": "^8.3.0",
     "twitch": "^2.2.6",
     "typescript": "^3.5.2"
+  },
+  "scripts": {
+    "start": "ts-node ."
   }
 }
